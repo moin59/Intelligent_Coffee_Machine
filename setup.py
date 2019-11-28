@@ -20,6 +20,6 @@ setup(
     author_email='eee.moin@gmail.com',
     url='https://github.com/moin59/Intelligent_Coffee_Machine',
     license=license,
-    packages=find_packages(exclude=('tests', 'docs'))
+    packages=find_packages(exclude=('source'))
 )
 
