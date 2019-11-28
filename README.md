@@ -26,3 +26,4 @@ h- Switch off
 (7). Intelligent coffee taking: The user is allowed to take the coffee when the cooking procedure is finished. This means the jug is filled with coffee. Before taking the coffee he makes the coffee machine to stop himself switched on. (We assume that the user does not want to keep the coffee heated and probably drinks all the coffee at once, or has some friends / colleagues to share the coffee with ...)
 
 (8). Intelligent clean up: After the coffee has been cooked, the old filter must be taken out anda new one inserted before filling in new coffee.
+
