@@ -7,7 +7,7 @@ Created a class IntelligentCoffeeMachine that fulfills the following requirement
 
 (2). User interaction: The user wants to be able to interact with the coffee machine(IntelligentCoffeeMachine class) as follows:
 - Open lid.
-- Insertfilter.
+- Insert filter.
 - Insert coffe.
 - Insert water.
 - Close lid.
