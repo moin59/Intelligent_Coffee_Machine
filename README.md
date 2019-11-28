@@ -6,14 +6,15 @@ Created a class IntelligentCoffeeMachine that fulfills the following requirement
 (1). Prerequisites: For simplification we assume that we have a coffee machine with fixed water and coffee reservoir and the coffee jug is not used for water insertion, but some external jug.
 
 (2). R02 User interaction: The user wants to be able to interact with the coffee machine(IntelligentCoffeeMachine class) as follows:
-- Open lid
-- Insertfilter
-- Insert coffe
-- Insert water
-- Close lid
-- Start cooking
-- Take coffee
-- Switch off
+a- Open lid
+b- Insertfilter
+c- Insert coffe
+d- Insert water
+e- Close lid
+f- Start cooking
+g- Take coffee
+h- Switch off
+
 (3). Intelligence in general: The intelligence of the coffee machine prevents wrong actions. In General the internal states have to be checked before action execution (Eg Opening the lid is onlypossible in case the lid is not already open). In case of wrong user interaction the user is informed with a respective text message. See following requirements for special status requirements thatdepend on each other.
 
 (4). Intelligent coffee insertion: Coffee can only be inserted into the caseis inserted. Respect the maximum content of the coffee reservoir.
