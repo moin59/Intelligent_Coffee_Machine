@@ -5,7 +5,7 @@ Making coffee seems to be very simple since (almost) everybody knows how to do i
 Created a class IntelligentCoffeeMachine that fulfills the following requirements:
 (1). Prerequisites: For simplification we assume that we have a coffee machine with fixed water and coffee reservoir and the coffee jug is not used for water insertion, but some external jug.
 
-(2). R02 User interaction: The user wants to be able to interact with the coffee machine(IntelligentCoffeeMachine class) as follows:
+(2). User interaction: The user wants to be able to interact with the coffee machine(IntelligentCoffeeMachine class) as follows:
 - Open lid.
 - Insertfilter.
 - Insert coffe.
