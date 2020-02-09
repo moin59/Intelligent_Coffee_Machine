@@ -1,5 +1,5 @@
 # Intelligent_Coffee_Machine
-An interactive object oriented python program
+An interactive object oriented python and C++ program
 Making coffee seems to be very simple since (almost) everybody knows how to do it. However, to train thinking in an object-oriented way, a coffee machine class behavior.
 Created a class IntelligentCoffeeMachine that fulfills the following requirements:
 
